@@ -9,7 +9,6 @@ import {
   GET_USER,
   GET_REPOS
 } from '../types';
-import { findAllByTestId } from '@testing-library/react';
 
 let githubClientId;
 let githubClientSecret;
